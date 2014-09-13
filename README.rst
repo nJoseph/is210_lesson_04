@@ -587,8 +587,9 @@ in the rows may only play players in the columns whose numbers are lower
 than (``<``) their own.
 
 Programming this solution turns out to be fairly painless but requires the use
-of the ``enumerated()`` function. If you haven't watched this week's video,
-be sure to do so as I'll go over enumerated in considerable more detail than is found in the course text.
+of the ``enumerate()`` function. If you haven't watched this week's video, be
+sure to do so as I'll go over ``enumerate()`` in considerable more detail than
+is found in the course text.
 
 #.  Create a new file named ``task_05.py``
 
