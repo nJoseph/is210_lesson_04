@@ -648,7 +648,7 @@ is found in the course text.
 
     This will redirect the output from printing on the screen to instead print
     into a new file named matchups.csv. You can then open matchups.csv in
-    excel or any other csv-compatible reader to see the data in all it's glory.
+    excel or any other csv-compatible reader to see the data in all its glory.
 
 Submission
 ==========
